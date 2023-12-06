@@ -1,0 +1,64 @@
+/* Text Descriptors */
+body {
+    color: #333;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+}
+
+h1, h2, h3 {
+    color: #0066cc;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+/* Background */
+body {
+    background-color: #f4f4f4;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Size */
+header, nav, section, footer {
+    margin: 10px;
+}
+
+section {
+    width: 70%;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+/* Link Styles */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
