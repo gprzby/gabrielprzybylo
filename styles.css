@@ -1,6 +1,6 @@
 /* Text Descriptors */
 body {
-    color: #333;
+    color: #0da330;
     font-size: 16px;
     font-weight: normal;
     text-align: left;
@@ -17,17 +17,17 @@ p {
 
 /* Background */
 body {
-    background-color: #f4f4f4;
+    background-color: #03240b;
 }
 
 nav {
-    background-color: #333;
+    background-color: #0da330;
     color: #fff;
     padding: 10px;
 }
 
 footer {
-    background-color: #333;
+    background-color: #0da330;
     color: #fff;
     padding: 10px;
     text-align: center;
